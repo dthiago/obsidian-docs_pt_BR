@@ -1,7 +1,5 @@
 Oi! Eu sou uma nota no seu cofre.
 
-At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[Obsidian]] disappears one day.
-
 Ao mesmo tempo, eu também sou apenas um arquivo Markdown alocado em seu disco rígido. Está tudo em texto simples, então você não precisa se preocupar em me perder no caso de [[Obsidian]] desaparecer um dia.
 
 
@@ -18,28 +16,28 @@ Se você estiver com pressa, aqui estão alguns lugares rápidos para mergulhar:
 - Obsidian can be extended with [[Core plugins|plugins]]. Several are available by default, and can be enabled or disabled according to your needs.
 
 
-If you want a more thorough introduction, including a bit about our philosophy, check out [[Obsidian]].
+Se você quiser uma introdução mais ampla, incluindo um pouco sobre a nossa filosofia, confira [[Obsidian]].
 
-And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic note taking]].
+E se quiser uma introdução singular, ou se apenas quiser começar mas não souber como, dirija-se a  [[Basic note taking]].
 
 If you are a [Catalyst supporter](https://obsidian.md/pricing), and want to turn on Insider Builds, see [[Insider builds]].
 
-## Workflows
+## Fluxo de Trabalho
 
-Obsidian is a tool that can be used in many ways, from a simple list of notes to a very powerful knowledge management system. We suggest you start at your own pace, and build it into the tool you need.
+Obsidiana é uma ferramenta que pode ser utilizada de muitas maneiras, desde uma simples lista de notas até um sistema muito poderoso de gestão do conhecimento. Sugerimos que comece no seu próprio ritmo, e que o construa da forma que precisar.
 
-Here are a few ways to get started:
+Aqui estão algumas formas de começar:
 
-If you want to just start taking notes, check out [[Basic note taking]]
+Se você desejar somente tomando notas, dê uma olhada [[Basic note taking]]
 
-If you already have a collection of notes in markdown format, just choose them for your Vault. Choose "Vault" in the lower left and select the directory your notes are in.
+Se você possuir uma coleção de notas no formato markdown, escolha-as em cofre. Escolha "Cofre" na parte inferior esquerda e selecione o diretório que as notas estão alocadas.
 
-If you have notes from Roam Research, Notion, or other systems, [[Import data|here's how to import them]].
+Se tiver notas da Roam Research, Notion, ou de outros sistemas, [[Import data|here's how to import them]].
 
-If you'd like to know more about Obsidian, you can [[Obsidian|read about our story]].
+Se quiser saber mais sobre Obsidiana, você pode [[Obsidian|read about our story]].
 
-By the way, you can feel free to edit these help docs, but when you open it again, they will be overwritten. So, don't put anything in them you want to keep.
+A propósito, pode sentir-se à vontade para editar estes documentos de ajuda, mas quando os abrir novamente, eles serão sobrescritos. Por isso, não coloque nada neles que queira guardar.
 
-## I have questions.
+## Eu tenho dúvidas
 
-Then you should join our [community!](https://obsidian.md/community). We have active Discord and Forums, and the community is generally quite helpful.
+Procure a nossa [community!](https://obsidian.md/community). We have active DNóss possuímos DIscord e Fóruns, e a comunidade é altamente colaborativa.
