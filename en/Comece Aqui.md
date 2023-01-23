@@ -1,10 +1,12 @@
-Hi there! I'm a note in your vault.
+Oi! Eu sou uma nota no seu cofre.
 
 At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[Obsidian]] disappears one day.
 
-## Quick Start
+Ao mesmo tempo, eu também sou apenas um arquivo Markdown alocado em seu disco rígido. Está tudo em texto simples, então você não precisa se preocupar em me perder no caso de [[Obsidian]] desaparecer um dia.
 
-If you're in a hurry, here's some quick places to dive in:
+
+## Início Rápido
+Se você estiver com pressa, aqui estão alguns lugares rápidos para mergulhar:
 
 - The [[Command palette]] contains most of the commands you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
 - How to [[Create notes|create new notes]].
